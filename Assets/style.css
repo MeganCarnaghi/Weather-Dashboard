@@ -1,0 +1,106 @@
+/* Generic page styling */
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+/* This is the styling for the header */
+header {
+text-align: center;
+width: 100%;
+background-color: #323A40;
+color: #ffffff;
+position: absolute;
+top: 0;
+}
+
+/* This is the styling for the div container */
+.container {
+ padding-top: 70px;   
+}
+
+/* This is the styling for the search button */
+#search-button {
+background-color: #0078FF;
+color: #ffffff;
+border: 1px solid #0078FF;
+border-radius: 5px;
+}
+
+/* This is the styling for the city names list div */
+#city-names-list {
+    margin-top: 20px;
+}
+
+/* This is the styling for the clear cities button */
+#clear-history-button {
+    margin-top: 10px;
+    float: right;
+}
+
+.col-sm-8 {
+    clear: both;
+}
+
+#city-list-item-link {
+    color: #000000;
+}
+
+/* This is the class to hide the forcast elements prior to the search button being clicked */
+.hide {
+    display: none;
+}
+
+/* This is the styling for the weather-details class */
+.weather-details-class {
+    border: 1px solid #DFDFDF;
+    border-radius: 5px;
+    padding: 15px 15px;
+}
+
+/* This is the styling for the h4 city name and date */
+#city-name {
+    display: inline;
+}
+
+/* This is the styling for the div containing the Five Day Forecast */
+#five-day-forecast {
+    margin-top: 20px;
+}
+
+/* This is the styling for the Five Day Forecast heading */
+#five-day-heading {
+    display: block;
+}
+
+/* This is the styling for the individual five-day-forecast divs */
+.rounded {
+    font-size: 14px;
+    float: left;
+    margin: 10px 15px;
+}
+
+/* This is the styling for the classes for the UV index */
+.favorable {
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    display: inline;
+}
+
+.moderate {
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    display: inline;
+}
+
+.severe {
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    display: inline;
+}
