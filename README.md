@@ -38,7 +38,7 @@ The following image demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* Here is the URL of the deployed application: 
+* Here is the URL of the deployed application: https://megancarnaghi.github.io/Weather-Dashboard/
 
 * Here is the URL of the GitHub repository: https://github.com/MeganCarnaghi/Weather-Dashboard.git
 
