@@ -30,10 +30,11 @@ WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 ```
 
-## My Code
+## Links and Screenshots
 
 * URL of the deployed application: https://megancarnaghi.github.io/Weather-Dashboard/
 
 * URL of the GitHub repository: https://github.com/MeganCarnaghi/Weather-Dashboard.git
 
-* Here are my screenshots: (Screenshots/Current-and-Five-Day-Forecast.jpg) (Screenshots/Main-Screen.jpg)
+![Current and Five Day Forecast](Screenshots/Current-and-Five-Day-Forecast.jpg) 
+![Main Screen](Screenshots/Main-Screen.jpg)
