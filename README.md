@@ -30,7 +30,7 @@ WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 ```
 
-## Links and Screenshots
+## Links and Screenshot
 
 * URL of the deployed application: https://megancarnaghi.github.io/Weather-Dashboard/
 
