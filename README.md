@@ -37,4 +37,3 @@ THEN I am presented with the last searched city forecast
 * URL of the GitHub repository: https://github.com/MeganCarnaghi/Weather-Dashboard.git
 
 ![Current and Five Day Forecast](Screenshots/Current-and-Five-Day-Forecast.jpg) 
-![Main Screen](Screenshots/Main-Screen.jpg)
