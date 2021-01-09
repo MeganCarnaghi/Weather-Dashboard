@@ -30,10 +30,22 @@ WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 ```
 
+## Technologies Used
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* OpenWeather API
+
 ## Links and Screenshot
 
 * URL of the deployed application: https://megancarnaghi.github.io/Weather-Dashboard/
 
 * URL of the GitHub repository: https://github.com/MeganCarnaghi/Weather-Dashboard.git
 
-![Current and Five Day Forecast](Screenshots/Current-and-Five-Day-Forecast.jpg) 
+![Current and Five Day Forecast](Screenshots/Current-and-Five-Day-Forecast.jpg)
+
+## License
+
+![license](https://img.shields.io/badge/License-MIT-success)
